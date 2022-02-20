@@ -1,0 +1,7 @@
+
+
+#1 Navigate to Server 
+`~/Documents/graphql-project/server`
+
+#2 run the cmd to start the server
+`nodemon app`
